@@ -93,7 +93,7 @@ print p.major_xs(1)
 
 
 result = sr1.append(sr2, ignore_index = True)
-
+result = sr.pop(item = 'Sprite')
 
 
 
